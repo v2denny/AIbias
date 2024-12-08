@@ -1,4 +1,4 @@
-# Deus Ex Machina: Power, Perception, and Prejudice
+# Deus Ex Machina: Power, Perception and Prejudice
 
 ### Authors: Bernardo Salgado, Daniel Dias, Lucas Santiago, Miguel Lopes, Rafael Conceição  
 **Date:** December 2024  
@@ -23,7 +23,7 @@ This project investigates the societal implications of Artificial Intelligence (
 ## **Motivation and Goals**
 
 1. **Understand the societal impact** of AI-driven systems through real-world case studies.  
-2. **Identify key issues** such as bias, fairness, and transparency in algorithmic decision-making.  
+2. **Identify key issues** such as bias, fairness and transparency in algorithmic decision-making.  
 3. **Experiment with bias mitigation techniques** to evaluate their effectiveness and limitations.  
 4. **Provide actionable insights** for building fairer AI systems while maintaining performance.
 <br>
