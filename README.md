@@ -56,6 +56,8 @@ pip install -r requirements.txt
 
 ### **3. Run the Notebooks**
 Launch the Jupyter Notebooks and explore the full workflow.
+1. **Approach 1:** Run the files on the `Approach1` folder and follow the provided readme instructuons.
+
 <br>
 <br>
 
