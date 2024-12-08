@@ -27,7 +27,6 @@ This project investigates the societal implications of Artificial Intelligence (
 3. **Experiment with bias mitigation techniques** to evaluate their effectiveness and limitations.  
 4. **Provide actionable insights** for building fairer AI systems while maintaining performance.
 <br>
-<br>
 
 
 ## **Dataset**
