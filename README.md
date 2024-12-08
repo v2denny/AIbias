@@ -10,6 +10,7 @@
 2. [Motivation and Goals](#motivation-and-goals)
 3. [Dataset](#dataset)
 4. [How to Use the Repository](#how-to-use-the-repository)
+5. [References](#references)
 <br>
 
 ## **Introduction**
