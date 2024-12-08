@@ -30,3 +30,7 @@ First run `DataPreparation.ipynb`, make sure you have your `adult.csv` dataset d
 Following it, run the `Approach1.ipynb`.
 
 In this directory I provided some csv's and .pkl files that have been saved during the process to avoid re-running the whole notebooks.
+
+# Visualizations
+
+To explore the visualization interactively, open [this HTML file](lime_explanation_with_labelencoder.html) in your browser.
