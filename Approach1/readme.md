@@ -33,4 +33,4 @@ In this directory I provided some csv's and .pkl files that have been saved duri
 
 # Visualizations
 
-To explore the visualization interactively, open [this HTML file](lime_explanation_with_labelencoder.html) in your browser.
+![Visualization](lime.png)
