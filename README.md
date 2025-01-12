@@ -54,9 +54,11 @@ pip install -r requirements.txt
 ```
 
 ### **3. Run the Notebooks**
+The project is separated into two approaches.
 Launch the Jupyter Notebooks and explore the full workflow.
-1. **Approach 1:** Run the files on the `Approach1` folder and follow the provided readme instructuons.
-2. **Approach 2:** Run the files on the `Approach2` folder and follow the provided readme instructuons.
+1. **Approach 1:** Run the files on the `Approach1` folder and follow the provided readme instructions.
+2. **Approach 2:** Run the files on the `Approach2` folder and follow the provided readme instructions.
+3. **UPDATED** A new file `Tutorial.ipynb` was added that contains all the notebooks combined to make it easier to follow along with our work.
 <br>
 
 
